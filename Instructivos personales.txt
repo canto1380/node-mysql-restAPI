@@ -1,0 +1,4 @@
+Instalar extension Thunder client
+Abrir extension
+New Request
+Insertar la peticion que deseamos
